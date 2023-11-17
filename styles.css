@@ -84,3 +84,9 @@ body > div {
     background-color: #881504;
     color: white;
   }
+
+  #pauseNotice h4 {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+  }
