@@ -93,7 +93,7 @@ body > div {
     display: table;
     background-color: #04AA6D;
 
-    /* width: 100%; */
+    /* width: 100% width; */
     table-layout: fixed;    /* For cells of equal size */
   }
 
